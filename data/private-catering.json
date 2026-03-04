@@ -1,0 +1,29 @@
+{
+  "privateCateringPage": {
+    "heroSection": {
+      "title": "PRIVATE EVENTS CATERING"
+    },
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Organizing Private Catering in Dubai",
+      "description": [
+        "Ricky’s Restaurant is renowned as the most reliable private events catering service provider in the UAE. Let us amaze you with our private events catering! Our services are designed to transform your venue into a stunning experience for you and your guests.",
+        "With outstanding food, creative presentation, and excellent service, our team offers a prestigious private event catering experience. Sit back, relax, and plan your guest list—we’ll handle the rest.",
+        "Ricky’s Restaurant provides unforgettable private event catering that will astonish and delight your guests. From concept to menu design to execution, our team manages everything so you can focus on enjoying and hosting."
+      ]
+    },
+    "professionalServices": {
+      "title": "Professional Catering Services in Dubai",
+      "content": [
+        "When it comes to private events catering, our experience, teamwork, and dedication set us apart. Ricky’s Restaurant has been at the forefront of professional catering services in Dubai and across the Emirates, including Sharjah and Ajman.",
+        "Our contemporary, full-service catering company is dedicated to providing an exceptional dining experience. You can trust that our menus will be personalized to your specific needs, ensuring excellent food and service every time.",
+        "At Ricky’s Restaurant, we offer the finest beverages, professional staff, tantalizing food, and top-notch décor arrangements."
+      ]
+    },
+    "processSection": {
+      "title": "Private Events Catering | Ricky’s Restaurant",
+      "processSteps": ["Planning", "Managing", "Delegating", "Executing"],
+      "closingStatement": "We ensure there are no bottlenecks on your special occasion. Ricky’s Restaurant leaves no stone unturned in making your event noteworthy."
+    }
+  }
+}

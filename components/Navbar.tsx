@@ -266,7 +266,7 @@ function Navbar() {
                       {/* Main Service Item */}
                       <div className="flex items-center justify-between px-4 py-2 hover:bg-yellow-50">
                         <Link
-                          href={service.href}
+                          href={`/catering/${service.href}`}
                           className="flex items-center flex-1 text-sm"
                           onClick={() => setActiveDropdown(null)}
                         >
@@ -288,7 +288,7 @@ function Navbar() {
                           {service.submenu.map((item) => (
                             <Link
                               key={item.name}
-                              href={item.href}
+                              href={`/catering/${service.href}/${item.href}`}
                               className="flex items-center px-4 py-2 text-sm hover:bg-yellow-50"
                               onClick={() => setActiveDropdown(null)}
                             >

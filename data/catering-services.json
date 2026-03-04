@@ -1,0 +1,253 @@
+[
+  {
+    "id": "wedding-catering",
+    "slug": "wedding-catering-in-dubai",
+    "pageTitle": "Wedding Catering",
+    "heroTitle": "WEDDING CATERING",
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Organizing Wedding Catering in Dubai",
+      "description": [
+        "Ricky’s Restaurant is renowned as one of the most reliable wedding catering service providers in the UAE. Let us make your special day unforgettable with our exquisite wedding catering services designed to delight you and your guests.",
+        "With outstanding food, creative presentation, and impeccable service, our team ensures your wedding celebration is nothing short of perfect. From intimate gatherings to grand receptions, we handle every detail with precision and care.",
+        "Our experienced wedding catering team works closely with you to create a personalized menu that reflects your taste and style, ensuring a memorable culinary experience for your guests."
+      ]
+    },
+    "features": {
+      "title": "Why Choose Ricky’s for Your Wedding?",
+      "intro": "Planning a wedding involves countless details, and the food is one of the most important. Here's why couples trust Ricky’s Restaurant for their special day:",
+      "reasons": [
+        {
+          "title": "Bespoke Wedding Menus",
+          "description": "We work with you to create a customized menu that reflects your personal taste and complements your wedding theme, from traditional favorites to innovative culinary creations."
+        },
+        {
+          "title": "Elegant Presentation",
+          "description": "Our team ensures that every dish is presented beautifully, adding to the visual appeal of your wedding reception and impressing your guests."
+        },
+        {
+          "title": "Experienced Event Staff",
+          "description": "Our professional serving staff is trained to provide unobtrusive yet attentive service, allowing you and your guests to fully enjoy the celebration."
+        },
+        {
+          "title": "Comprehensive Service",
+          "description": "From cocktail hour canapés to multi-course sit-down dinners and late-night snacks, we handle all your wedding catering needs seamlessly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "special-occasion-catering",
+    "slug": "special-occasion-catering-in-dubai",
+    "pageTitle": "Special Occasion Catering",
+    "heroTitle": "SPECIAL OCCASION CATERING",
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Celebrate Your Special Moments",
+      "description": [
+        "Mark your milestones with Ricky’s Restaurant's exceptional special occasion catering. Whether it's an anniversary, engagement, graduation, or any personal celebration, we bring the finest food and service to your event.",
+        "Our team understands that every special occasion is unique. We work closely with you to design a menu and experience that perfectly captures the spirit of your celebration.",
+        "Let us handle the culinary details so you can focus on creating lasting memories with your loved ones."
+      ]
+    },
+    "features": {
+      "title": "Why Choose Ricky’s for Your Special Occasion?",
+      "intro": "Make your celebration truly memorable with catering that matches the significance of your event.",
+      "reasons": [
+        {
+          "title": "Personalized Menus",
+          "description": "We create custom menus tailored to your preferences and the nature of your celebration."
+        },
+        {
+          "title": "Flexible Service Styles",
+          "description": "Choose from buffet, family-style, plated dinners, or interactive food stations to suit your event's atmosphere."
+        },
+        {
+          "title": "Attention to Detail",
+          "description": "From décor coordination to dietary accommodations, we ensure every detail is perfect."
+        }
+      ]
+    }
+  },
+  {
+    "id": "birthday-party-catering",
+    "slug": "birthday-party-catering-in-dubai",
+    "pageTitle": "Birthday Party Catering",
+    "heroTitle": "BIRTHDAY PARTY CATERING",
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Celebrate with Delicious Food",
+      "description": [
+        "Make your birthday celebration unforgettable with Ricky’s Restaurant's expert birthday party catering. From milestone birthdays to intimate gatherings, we provide delicious food and seamless service.",
+        "Our flexible catering options allow you to choose the perfect menu for your party, whether you're planning a casual get-together or an elegant soirée."
+      ]
+    },
+    "features": {
+      "title": "Birthday Party Options",
+      "intro": "We offer a variety of catering styles to match your birthday celebration:",
+      "reasons": [
+        {
+          "title": "Casual Buffets",
+          "description": "Perfect for larger, more relaxed gatherings with a variety of dishes."
+        },
+        {
+          "title": "Elegant Sit-Down Dinners",
+          "description": "Ideal for milestone birthdays and more formal celebrations."
+        },
+        {
+          "title": "Kids' Party Menus",
+          "description": "Specially designed menus that appeal to younger guests."
+        },
+        {
+          "title": "Dessert Stations",
+          "description": "Add a sweet touch with customized dessert tables and birthday cakes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "kids-party-catering",
+    "slug": "kids-party-catering-in-dubai",
+    "pageTitle": "Kids Party Catering",
+    "heroTitle": "KIDS PARTY CATERING",
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Fun Food for Little Ones",
+      "description": [
+        "Create magical memories for your child's special day with Ricky’s Restaurant's kids party catering. We offer fun, delicious, and kid-friendly menus that will delight children and give parents peace of mind.",
+        "Our experienced team knows just what it takes to make a kids' party a success, from playful presentation to crowd-pleasing favorites."
+      ]
+    },
+    "features": {
+      "title": "Kids Party Features",
+      "intro": "We make kids' parties easy and enjoyable with:",
+      "reasons": [
+        {
+          "title": "Kid-Friendly Menus",
+          "description": "Specially designed dishes that children love, from mini burgers and pizzas to fun finger foods."
+        },
+        {
+          "title": "Allergy Awareness",
+          "description": "We accommodate dietary restrictions and allergies with care and attention."
+        },
+        {
+          "title": "Fun Presentation",
+          "description": "Creative and colorful food presentation that appeals to young eyes."
+        },
+        {
+          "title": "Stress-Free Service",
+          "description": "Our team handles setup, serving, and cleanup so you can enjoy the party."
+        }
+      ]
+    }
+  },
+  {
+    "id": "staff-party-catering",
+    "slug": "staff-catering",
+    "pageTitle": "Staff Party Catering",
+    "heroTitle": "STAFF PARTY CATERING",
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Appreciate Your Team",
+      "description": [
+        "Show your employees how much you value them with exceptional staff party catering from Ricky’s Restaurant. Whether it's a team-building event, holiday party, or company milestone, we provide delicious food that brings people together.",
+        "Our corporate catering expertise ensures that your staff event runs smoothly, with professional service and high-quality food that your team will love."
+      ]
+    },
+    "features": {
+      "title": "Staff Party Options",
+      "intro": "We offer flexible catering solutions for all types of staff events:",
+      "reasons": [
+        {
+          "title": "Team Lunches",
+          "description": "Hot and cold buffet options perfect for casual team gatherings."
+        },
+        {
+          "title": "Holiday Celebrations",
+          "description": "Festive menus designed for end-of-year parties and special occasions."
+        },
+        {
+          "title": "Award Ceremonies",
+          "description": "Elegant catering for more formal staff recognition events."
+        },
+        {
+          "title": "Team-Building Events",
+          "description": "Interactive food stations and activities that encourage team bonding."
+        }
+      ]
+    }
+  },
+  {
+    "id": "yacht-party-catering",
+    "slug": "yacht-party-catering",
+    "pageTitle": "Yacht Party Catering",
+    "heroTitle": "YACHT PARTY CATERING",
+    "mainContent": {
+      "subtitle": "CATERING",
+      "heading": "Luxury Dining on the Water",
+      "description": [
+        "Elevate your yacht party experience with Ricky’s Restaurant's premium yacht catering services. We specialize in bringing exquisite dining to the water, creating unforgettable moments against the stunning backdrop of Dubai's coastline.",
+        "Our team is experienced in catering for yacht events of all sizes, from intimate gatherings to larger celebrations, ensuring that every detail is perfect despite the unique challenges of on-water venues."
+      ]
+    },
+    "features": {
+      "title": "Yacht Catering Excellence",
+      "intro": "Experience luxury dining on the water with our specialized yacht catering services:",
+      "reasons": [
+        {
+          "title": "Space-Optimized Menus",
+          "description": "Specially designed menus that work beautifully within the constraints of yacht kitchens."
+        },
+        {
+          "title": "Elegant Presentation",
+          "description": "Beautifully presented dishes that complement the luxurious yacht setting."
+        },
+        {
+          "title": "Experienced Marine Staff",
+          "description": "Our team is experienced in working on yachts and understands the unique requirements of marine events."
+        },
+        {
+          "title": "Complete Event Management",
+          "description": "From provisioning to service and cleanup, we handle everything so you can enjoy the cruise."
+        }
+      ]
+    }
+  },
+  {
+  "id": "business-party-catering",
+  "slug": "business-party-catering",
+  "pageTitle": "Business Party Catering",
+  "heroTitle": "BUSINESS PARTY CATERING",
+  "mainContent": {
+    "subtitle": "CATERING",
+    "heading": "Organizing Business Party Catering in Dubai",
+    "description": [
+      "Ricky’s Restaurant offers exceptional business party catering services designed to impress your clients and colleagues. Whether it's a product launch, an office celebration, or a networking event, we provide the culinary excellence that elevates your corporate gathering.",
+      "Our team understands the unique requirements of business events, from punctual delivery and professional setup to menus that cater to diverse tastes and dietary needs. We handle every detail so you can focus on your guests and business objectives.",
+      "With Ricky’s Restaurant, your business party will be remembered for its exquisite food and seamless service, reflecting the professionalism and success of your company."
+    ]
+  },
+  "features": {
+    "title": "Why Choose Ricky’s for Your Business Party?",
+    "intro": "We specialize in creating the perfect atmosphere for corporate celebrations with food and service that impress.",
+    "reasons": [
+      {
+        "title": "Professional Execution",
+        "description": "Our experienced team ensures timely delivery, setup, and service that aligns with your event schedule."
+      },
+      {
+        "title": "Sophisticated Menus",
+        "description": "Choose from elegant canapés, gourmet buffets, or plated dinners that suit the tone of your business event."
+      },
+      {
+        "title": "Dietary Accommodations",
+        "description": "We expertly handle diverse dietary requirements, ensuring all guests are catered for."
+      },
+      {
+        "title": "Customizable Packages",
+        "description": "From intimate boardroom gatherings to large-scale parties, we tailor our services to your specific needs and budget."
+      }
+    ]
+  }
+}
+]

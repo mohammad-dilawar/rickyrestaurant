@@ -8,11 +8,11 @@ function Footer() {
   const currentYear = new Date().getFullYear()
 
   const services = [
-    { name: 'Yacht Party Catering In Dubai', link: '/yacht-party-catering' },
-    { name: 'Birthday Party Catering', link: '/birthday-party-catering-in-dubai' },
-    { name: 'Wedding Catering in Dubai', link: '/wedding-catering-in-dubai' },
-    { name: 'Business Party Catering', link: '/business-party-catering' },
-    { name: 'Private Catering', link: '/private-catering' },
+    { name: 'Yacht Party Catering In Dubai', link: '/catering/private-catering/yacht-party-catering' },
+    { name: 'Birthday Party Catering', link: '/catering/private-catering/birthday-party-catering' },
+    { name: 'Wedding Catering in Dubai', link: '/catering/private-catering/wedding-catering' },
+    { name: 'Business Party Catering', link: '/catering/corporate-catering-in-dubai/business-party-catering' },
+    { name: 'Private Catering', link: '/catering/private-catering' },
   ]
 
   const quickLinks = [

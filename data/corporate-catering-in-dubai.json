@@ -1,0 +1,38 @@
+{
+  "corporateCateringPage": {
+    "heroSection": {
+      "title": "CORPORATE EVENTS CATERING"
+    },
+    "mainIntroduction": {
+      "subtitle": "CATERING",
+      "heading": "Organizing Corporate Catering in Dubai",
+      "description": [
+        "Ricky’s Restaurant Catering is renowned as one of the premier corporate catering services providers in Dubai. With a wealth of experience serving clients ranging from multinational corporations to small and medium enterprises, we offer unparalleled professionalism.",
+        "Our corporate catering services are distinguished by our extensive menu options, expert staff, and top-of-the-line equipment capable of accommodating any request. Whether it’s simple sandwich platters, hot staff lunches, or exquisite 5-star dining in UAE boardrooms, we deliver with excellence.",
+        "Ricky’s Restaurant Catering’s stellar reputation for delivering quality food and professional corporate catering services reflects our unwavering commitment to maintaining exceptional client relationships."
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Ricky’s Restaurant Catering?",
+      "intro": "When selecting corporate catering services, it’s natural to be discerning. Ricky’s Restaurant Catering stands out as one of the most trusted and reliable providers in Dubai. Here’s why:",
+      "reasons": [
+        {
+          "title": "We Are Reliable",
+          "description": "With extensive experience in corporate catering and logistics, we ensure your peace of mind. As your consultants, we handle all the details and execution, guaranteeing the success of your corporate event."
+        },
+        {
+          "title": "Delectable, Quality-Controlled Food",
+          "description": "Our menu features proven favorites like canapes, live stations, and snack boxes. You can customize the preparation to suit your event, ensuring a delightful culinary experience for your guests."
+        },
+        {
+          "title": "Versatile Corporate Catering Services",
+          "description": "Ricky’s Restaurant Catering offers a range of services from simple pick-ups to fully staffed events. Whether you’re serving 25 or 500 people, we have the experience to handle it efficiently."
+        },
+        {
+          "title": "Productivity",
+          "description": "We provide delicious food and exceptional corporate catering services tailored to your budget. Our combination of experience, creativity, and flexibility ensures that we meet and exceed our clients’ expectations."
+        }
+      ]
+    }
+  }
+}
