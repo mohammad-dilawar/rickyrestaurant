@@ -181,7 +181,7 @@ function Navbar() {
             <Link href="/" className="text-gray-600 hover:text-yellow-600 transition-colors text-sm lg:text-base font-medium">
               Home
             </Link>
-            <Link href="/aboutus" className="text-gray-600 hover:text-yellow-600 transition-colors text-sm lg:text-base font-medium">
+            <Link href="/about-us" className="text-gray-600 hover:text-yellow-600 transition-colors text-sm lg:text-base font-medium">
               About Us
             </Link>
             
@@ -304,7 +304,7 @@ function Navbar() {
               )}
             </div>
 
-            <Link href="/contactus" className="text-gray-600 hover:text-yellow-600 transition-colors text-sm lg:text-base font-medium">
+            <Link href="/contact-us" className="text-gray-600 hover:text-yellow-600 transition-colors text-sm lg:text-base font-medium">
               Contact
             </Link>
           </nav>
@@ -313,7 +313,7 @@ function Navbar() {
           <div className="flex items-center space-x-2 sm:space-x-4">
             {/* Reservation Button */}
             <Link 
-              href="/contactus" 
+              href="/contact-us" 
               className="inline-flex items-center bg-gradient-to-r from-yellow-500 to-amber-600 hover:from-yellow-600 hover:to-amber-700 text-white font-semibold px-3 sm:px-4 py-2 sm:py-2.5 rounded-full transition-all duration-300 shadow-md hover:shadow-xl gap-1 sm:gap-2 text-xs sm:text-sm"
             >
               <MdFoodBank className="text-base sm:text-lg" />
@@ -358,7 +358,7 @@ function Navbar() {
 
           {/* Mobile About Link */}
           <Link 
-            href="/aboutus" 
+            href="/about-us" 
             className="block px-3 py-2.5 rounded-md text-base font-medium text-gray-700 hover:text-yellow-600 hover:bg-yellow-50 transition-colors"
             onClick={() => setIsMobileMenuOpen(false)}
           >
@@ -460,7 +460,7 @@ function Navbar() {
 
           {/* Mobile Contact Link */}
           <Link 
-            href="/contactus" 
+            href="/contact-us" 
             className="block px-3 py-2.5 rounded-md text-base font-medium text-gray-700 hover:text-yellow-600 hover:bg-yellow-50 transition-colors"
             onClick={() => setIsMobileMenuOpen(false)}
           >
@@ -470,7 +470,7 @@ function Navbar() {
           {/* Mobile Reservation Button */}
           {/* <div className="pt-4 px-3">
             <Link 
-              href="/contactus" 
+              href="/contact-us" 
               className="flex items-center justify-center bg-gradient-to-r from-yellow-500 to-amber-600 hover:from-yellow-600 hover:to-amber-700 text-white font-semibold px-4 py-3 rounded-full transition-all duration-300 gap-2 w-full"
               onClick={() => setIsMobileMenuOpen(false)}
             >

@@ -60,7 +60,7 @@ function AboutSection() {
             {/* Order Now Button */}
             <div className="pt-4">
               <Link
-                href="/contactus"
+                href="/contact-us"
                 className="inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-8 py-4 rounded-md transition-colors duration-300 text-center w-full sm:w-auto"
               >
                 Order Now

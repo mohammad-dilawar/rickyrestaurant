@@ -249,5 +249,45 @@
       }
     ]
   }
+},
+{
+  "id": "get-together",
+  "slug": "get-together",
+  "pageTitle": "Get Together Catering",
+  "heroTitle": "GET TOGETHER CATERING SERVICES",
+  "mainContent": {
+    "subtitle": "CATERING",
+    "heading": "Get Together",
+    "description": [
+      "Looking to elevate your next social gathering into a memorable occasion? Whether it's a casual meet-up with family or a gathering of friends, hiring the right catering professionals can make all the difference. At Ricky's Restaurant Catering, we offer top-notch services with a comprehensive approach.",
+      "Our mission is to deliver a seamless experience characterized by excellence in service and delightful cuisine. Let us know your requirements, and we'll craft a plan tailored to your budget and party theme. We believe in offering more than just food delivery; our company provides a range of customizable services to meet your preferences. Plus, rest assured, no event size is too large for us to handle."
+    ]
+  },
+  "features": {
+    "title": "Get Together Catering Services",
+    "intro": "Whether it's a large gathering or an intimate affair, our attention to detail remains consistent.",
+    "reasons": [
+      {
+        "title": "Exquisite Menus for Every Guest",
+        "description": "With a diverse selection of dishes available, you can mix and match to create a spread that delights every guest, whether it's snack box catering or a lavish feast."
+      },
+      {
+        "title": "Seamless Professional Execution",
+        "description": "Our committed team of professionals ensures seamless execution and assists with all organizational aspects."
+      },
+      {
+        "title": "Tailored Experiences",
+        "description": "We recognize that each client is unique and deserves a tailored experience that reflects their individuality."
+      },
+      {
+        "title": "Flexible Service Styles",
+        "description": "Whether you prefer a laid-back buffet, tempting finger foods, or an elegant sit-down dinner, we offer solutions tailored to suit your event perfectly."
+      }
+    ]
+  },
+  "closingCta": {
+    "title": "Elevate Your Get Together Party Experience!",
+    "description": "Treat yourself and your guests to an exquisite culinary journey, where delectable flavors and captivating aromas await. Our talented chefs are masters at crafting a sensory experience that will leave everyone dazzled. The key to our success lies in using only the finest ingredients sourced sustainably from certified suppliers. Allow us to join you at your next gathering, where we'll orchestrate an unforgettable event, perfectly balancing sumptuous cuisine with unparalleled service."
+  }
 }
 ]

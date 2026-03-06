@@ -83,7 +83,7 @@ function HeroSlider() {
           
           {/* Contact Button */}
           <Link
-            href="/contactus"
+            href="/contact-us"
             className="inline-block bg-yellow-500 text-gray-900 px-10 py-4 rounded-md font-bold text-lg hover:bg-yellow-400 transition-colors duration-300 animate-fade-in-up shadow-lg"
           >
             Contact Us

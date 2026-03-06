@@ -124,18 +124,7 @@ function ServiceSection() {
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60 backdrop-blur-[2px]" />
         </div>
 
-        {/* Breadcrumb Navigation */}
-        <div className="absolute top-4 left-4 z-20 text-white/80 text-sm">
-          <Link href="/" className="hover:text-white">Home</Link>
-          <span className="mx-2">/</span>
-          <Link href="/catering" className="hover:text-white">Catering</Link>
-          <span className="mx-2">/</span>
-          <Link href={`/catering/${categoryName.toLowerCase().replace(/\s/g, '-')}`} className="hover:text-white">
-            {categoryName}
-          </Link>
-          <span className="mx-2">/</span>
-          <span className="text-white">{serviceData.pageTitle}</span>
-        </div>
+      
 
         {/* Text Content - Always on top of slider */}
         <div className="absolute inset-0 flex items-center justify-center z-10">
@@ -199,7 +188,7 @@ function ServiceSection() {
         {/* Contact CTA */}
         <div className="text-center mt-12">
           <Link
-            href="/contact"
+            href="/catering-inquiry-form"
             className="inline-flex items-center bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-8 py-4 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg"
           >
             <span>Inquire About {serviceData.pageTitle}</span>

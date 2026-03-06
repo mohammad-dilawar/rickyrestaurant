@@ -5,37 +5,37 @@ const cateringServices = [
   {
     id: 1,
     title: 'Wedding Catering',
-    link: '/wedding-catering-in-dubai',
+    link: '/catering/private-catering/wedding-catering-in-dubai',
     image: 'https://rickyrestaurants.com/wp-content/uploads/2024/05/4f70ac522dd448dc88c9f57887596a26.jpg'
   },
   {
     id: 2,
     title: 'Special Occasion',
-    link: '/special-occasion-catering-in-dubai',
+    link: '/catering/private-catering/special-occasion-catering-in-dubai',
     image: 'https://rickyrestaurants.com/wp-content/uploads/2024/05/catering-2.png'
   },
   {
     id: 3,
     title: 'Birthday Party Catering',
-    link: '/birthday-party-catering-in-dubai',
+    link: '/catering/private-catering/birthday-party-catering-in-dubai',
     image: 'https://rickyrestaurants.com/wp-content/uploads/2024/05/kidsparty.avif'
   },
   {
     id: 4,
     title: 'Kids Party Catering',
-    link: '/kids-party-catering-in-dubai',
+    link: '/catering/private-catering/kids-party-catering-in-dubai',
     image: 'https://rickyrestaurants.com/wp-content/uploads/2024/05/kidsparty.avif'
   },
   {
     id: 5,
     title: 'Staff Party',
-    link: '/staff-catering',
+    link: '/catering/corporate-catering/staff-catering',
     image: 'https://rickyrestaurants.com/wp-content/uploads/2024/05/event-detail-img-1.jpg'
   },
   {
     id: 6,
     title: 'Yacht Party Catering',
-    link: '/yacht-party-catering',
+    link: '/catering/private-catering/yacht-party-catering',
     image: 'https://rickyrestaurants.com/wp-content/uploads/2024/05/Yacht-Catering.png'
   }
 ]

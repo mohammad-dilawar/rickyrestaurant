@@ -16,7 +16,7 @@ function Footer() {
   ]
 
   const quickLinks = [
-    { name: 'Reservation', link: '/contactus' },
+    { name: 'Reservation', link: '/contact-us' },
     { name: 'Privacy Policy', link: '/privacy-policy-2' },
     { name: 'Terms & Condition', link: '#' },
   ]
