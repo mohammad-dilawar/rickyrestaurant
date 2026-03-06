@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your App Name",
-  description: "Your app description here",
+  title: "Ricky Restaurant",
+  description: "Welcome to Ricky's Restaurant, where culinary excellence meets unparalleled service. Situated in the vibrant heart of Dubai, Ricky's Restaurant is renowned for its exquisite dining experiences, offering a diverse menu that caters to both local and international palates.",
 };
 
 export default function RootLayout({
