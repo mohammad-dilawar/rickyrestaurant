@@ -119,7 +119,7 @@ function AboutUsSection() {
                 look forward to serving you soon!
               </p>
               <Link
-                href="/contact"
+                href="/contact-us"
                 className="inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-8 py-3 rounded-full transition-colors duration-300"
               >
                 Contact Us
