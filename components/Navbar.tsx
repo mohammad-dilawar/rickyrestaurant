@@ -442,7 +442,7 @@ function Navbar() {
                         {service.submenu.map((item) => (
                           <Link
                             key={item.name}
-                            href={item.href}
+                            href=/catering/${service.href}/${item.href}
                             className="flex items-center px-3 py-2 text-sm text-gray-600 hover:text-yellow-600 hover:bg-yellow-50 rounded-md transition-colors"
                             onClick={() => setIsMobileMenuOpen(false)}
                           >
